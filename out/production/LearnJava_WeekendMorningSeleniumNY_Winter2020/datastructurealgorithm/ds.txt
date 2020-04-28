@@ -1,0 +1,39 @@
+
+# Collection In Java Is A Framework That Provide An Architecture To Store And Manipulate The Group Of Objects.
+// Search
+// Sorting
+// Insertion
+// Manipulation
+// Deletion
+
+
+#
+Java Collection Means A Single Unit Of Objects.
+Java Collection Framework Provides Many Interfaces.
+-Set
+-List
+-Queue
+-Deque
+
+Classes Are ...
+-Arraylist
+-Vector
+-Linkedlist
+-PriorityQueue
+-HashSet
+-LinkedHashSet
+-TreeSet
+
+# 2D Array/ MultiDimensional Array: Simply Words As Array Of Arrays
+
+Data In 2D Array Are Stored In Tabular Form (in row major order)
+
+dataType[1stDimension][2ndDimension] = new dataType[size1][size2]
+
+
+
+
+
+
+
+
