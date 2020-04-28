@@ -1,4 +1,4 @@
-package string;
+package garbagecollection;
 
 public class GarbageCollector {
     String name="Alex";

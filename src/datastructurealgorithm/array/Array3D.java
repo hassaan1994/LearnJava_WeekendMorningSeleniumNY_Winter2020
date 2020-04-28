@@ -1,4 +1,4 @@
-package array;
+package datastructurealgorithm.array;
 
 public class Array3D {
 

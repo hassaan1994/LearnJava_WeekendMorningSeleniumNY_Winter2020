@@ -1,6 +1,4 @@
-package array;
-
-import oop.encapsulation.Student;
+package datastructurealgorithm.array;
 
 public class Students {
 

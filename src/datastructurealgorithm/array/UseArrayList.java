@@ -1,4 +1,4 @@
-package array;
+package datastructurealgorithm.array;
 
 import java.util.ArrayList;
 

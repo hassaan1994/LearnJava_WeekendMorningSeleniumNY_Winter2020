@@ -1,6 +1,4 @@
-package array;
-
-import org.w3c.dom.ls.LSOutput;
+package datastructurealgorithm.array;
 
 public class Array2D {
 
